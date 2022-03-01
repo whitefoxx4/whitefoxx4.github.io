@@ -64,7 +64,7 @@ li {
             "f";
         grid-gap: 1px;
         padding-bottom: 5px;
-        padding-top: 1px;
+        padding-top: 5px;
     }
     .photo {
         grid-area: p;
@@ -110,8 +110,6 @@ li {
 }
 .main {
     grid-area: m;
-    <!--background-color: transparent;-->
-    <!--color: rgba(0,0,128,1.0);-->
 }
 .footer {
     grid-area: f; 
