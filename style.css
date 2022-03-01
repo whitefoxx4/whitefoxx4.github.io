@@ -43,6 +43,14 @@ p {
     line-height: 16px;
 }
 
+li {
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 12px;
+    letter-spacing: 1px;
+    line-height: 16px;  
+}
+
 @media screen and (max-width: 480px) {
     div.container {
         display: grid;
@@ -128,12 +136,13 @@ p {
 .main_section {
     border-radius: 6px;
     border: 1px solid #FFFFFF;
-    padding: 10px 10px 10px 10px;
+    padding: 10px 10px 10px 25px;
     margin-left: 0px;
     margin-right: 0px;
     margin-top: 5px;
     background-color: rgba(0,0,128,0.5);
 }
+
 .connect_buttons {
     display: flex;
     justify-content: center;
