@@ -64,7 +64,7 @@ li {
             "f";
         grid-gap: 1px;
         padding-bottom: 5px;
-        padding-top: 5px;
+        padding-top: 10px;
     }
     .photo {
         grid-area: p;
